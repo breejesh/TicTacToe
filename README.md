@@ -2,7 +2,7 @@
 A simple 2 Player Tic Tac Toe built in Python. The CPU mode is not yet implemented.
 
 ## How to use
-For common users:
+For common users (Windows):
 1. Extract ttt-setup.zip
 2. Open Tic_Tac_Toe.exe
 3. Play!
