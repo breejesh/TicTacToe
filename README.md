@@ -1,6 +1,11 @@
 # Tic-Tac-Toe
 A simple 2 Player Tic Tac Toe built in Python. The CPU mode is not yet implemented.
 
+## Demonstration of the app
+Click the below image to view the video
+
+[![image](http://img.youtube.com/vi/cBQ0gNkkLA4/0.jpg)](https://youtu.be/cBQ0gNkkLA4)  
+
 ## How to use
 For common users (Windows):
 1. Extract ttt-setup.zip
